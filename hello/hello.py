@@ -1,1 +1,1 @@
-print("jag älsaker python")
+print("python")
